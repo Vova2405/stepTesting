@@ -5,6 +5,8 @@ This is code for automated testing of local Step instance .
 
 # Setup
 
+Follow the documentation to install the Open-Source version of the step application on-premise on your laptop (https://step.exense.ch/knowledgebase/3.18/getting-started/quick-setup/) and start it. You do not need a step agent for this exercise
+
 Open the folder in your IDE. Run the command: npm init.
 Run the command: npm install cypress --save-dev.
 Once Cypress is installed, run it with the command: npx cypress open.
